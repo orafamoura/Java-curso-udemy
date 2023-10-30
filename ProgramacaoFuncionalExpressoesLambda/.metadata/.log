@@ -1,0 +1,697 @@
+!SESSION 2023-09-13 18:46:45.643 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.7
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-13 18:46:46.613
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-13 18:47:21.705
+!MESSAGE Logback config file: D:\programação\Programacao\java\ProgramacaoFuncionalExpressoesLambda\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-09-13 18:47:23.276
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-13 18:47:23.276
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-13 18:47:23.276
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-09-13 18:47:25.930
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rafa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-09-14 15:38:49.060 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.7
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-14 15:38:50.050
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-14 15:38:58.233
+!MESSAGE Logback config file: D:\programação\Programacao\java\ProgramacaoFuncionalExpressoesLambda\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-09-14 15:39:00.792
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-14 15:39:00.792
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-14 15:39:00.792
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-09-14 15:39:02.909
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rafa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-09-14 16:37:59.712
+!MESSAGE Exception occurred during problem detection:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package application;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
+import java.util.function.Consumer;
+
+import entities.Product;
+import util.PriceUpdate;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);			
+		
+		List<Product> list = new ArrayList<>();
+		
+		list.add(new Product("Tv", 900.00));
+		list.add(new Product("Mouse", 50.00));
+		list.add(new Product("Tablet", 350.50));
+		list.add(new Product("HD Case", 80.90));
+
+		list.forEach(new PriceUpdate()); //forEach recebe um consumer como argumento		
+		
+		list.forEach(Product::staticPriceUpdate); // reference method static
+		
+		list.forEach(Product::nonStaticPriceUpdate); // reference method no static
+		
+		Consumer<Product> cons = p -> { //Expressao lambda declarada
+			p.setPrice(p.getPrice() * 1.1);
+		};
+		
+		//OU
+		
+		Consumer<Product> cons1 = p -> p.setPrice(p.getPrice() * 1.1);
+		
+		//OU 
+		
+		list.forEach(p p.setPrice(p.getPrice() * 1.1);
+		
+		
+		list.forEach(System.out::println); // reference method ---
+		
+		
+	}
+
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.getTypeReference(SourceElementParser.java:861)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.parseCompilationUnit(SourceElementParser.java:1138)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:273)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2023-09-14 16:37:59.713
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 1
+Java Model Exception: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:326)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.getTypeReference(SourceElementParser.java:861)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.parseCompilationUnit(SourceElementParser.java:1138)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:273)
+	... 18 more
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.getTypeReference(SourceElementParser.java:861)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.parseCompilationUnit(SourceElementParser.java:1138)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:273)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1005 2023-09-14 16:37:59.713
+!MESSAGE Index -1 out of bounds for length 10
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.getTypeReference(SourceElementParser.java:861)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.parseCompilationUnit(SourceElementParser.java:1138)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:273)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1005 2023-09-14 16:37:59.714
+!MESSAGE Index -1 out of bounds for length 10
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.getTypeReference(SourceElementParser.java:861)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.parseCompilationUnit(SourceElementParser.java:1138)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:273)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2023-09-14 16:37:59.714
+!MESSAGE Error in JDT Core during reconcile
+!STACK 1
+Java Model Exception: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:326)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.getTypeReference(SourceElementParser.java:861)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.parseCompilationUnit(SourceElementParser.java:1138)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:273)
+	... 18 more
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.getTypeReference(SourceElementParser.java:861)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.parseCompilationUnit(SourceElementParser.java:1138)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:273)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1005 2023-09-14 16:37:59.714
+!MESSAGE Index -1 out of bounds for length 10
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.getTypeReference(SourceElementParser.java:861)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.internal.compiler.SourceElementParser.parseCompilationUnit(SourceElementParser.java:1138)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:273)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:158)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2023-09-14 16:37:59.816
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReference(Parser.java:12248)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1270)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:790)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1245)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2023-09-14 16:37:59.816
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReferenceForGenericType(Parser.java:12343)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getTypeReference(Parser.java:12248)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRecordPatternWithId(Parser.java:10929)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.consumeRule(Parser.java:7499)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13152)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parseStatements(Parser.java:13808)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisitMethod(Parser.java:14147)
+	at org.eclipse.jdt.internal.compiler.parser.Parser$1MethodVisitor.endVisit(Parser.java:14133)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:440)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.recoverStatements(Parser.java:14253)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13219)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.parse(Parser.java:13508)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.parseStatements(MethodDeclaration.java:251)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.parseMethods(TypeDeclaration.java:1143)
+	at org.eclipse.jdt.internal.compiler.parser.Parser.getMethodBodies(Parser.java:12170)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1270)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:790)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1245)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:868)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:294)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:286)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:199)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2023-09-15 15:35:25.906 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.7
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-15 15:35:26.815
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-15 16:29:28.274
+!MESSAGE Logback config file: D:\programação\Programacao\java\ProgramacaoFuncionalExpressoesLambda\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-09-15 16:29:30.867
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-15 16:29:30.868
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-15 16:29:30.868
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.edit.text.java.rename.element"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.ui.edit.rename"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-09-15 16:29:32.956
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Rafa'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-09-19 20:21:50.068 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-09-19 20:21:53.994
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-19 20:21:54.187
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-19 20:22:36.127
+!MESSAGE Logback config file: D:\programação\Programacao\java\ProgramacaoFuncionalExpressoesLambda\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-09-19 20:22:38.206
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-19 20:22:38.206
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-09-19 20:22:42.045
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Raphael'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2023-09-19 20:22:42.110
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.ui.views.ResourceNavigator" id and the "Navigator (Deprecated)" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+!SESSION 2023-09-20 03:05:33.766 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-09-20 03:05:37.270
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-20 03:05:37.534
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-09-20 03:05:40.240
+!MESSAGE Logback config file: D:\programação\Programacao\java\ProgramacaoFuncionalExpressoesLambda\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-09-20 03:05:42.319
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-09-20 03:05:42.319
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-09-20 03:05:44.868
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Raphael'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

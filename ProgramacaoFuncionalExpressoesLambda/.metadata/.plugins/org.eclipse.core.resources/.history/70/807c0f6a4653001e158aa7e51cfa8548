@@ -1,0 +1,24 @@
+package CursoObservacoes;
+
+public class Streams {
+
+	public static void main(String[] args) {
+		
+		//OPERACOES INTERMEDIARIAS
+		/*
+		filter
+		map
+		flatmap
+		peek
+		distinct
+		sorted
+		skip
+		limit(*)  -- short-circuit *
+		
+		
+		
+		
+		*/
+	}
+
+}
